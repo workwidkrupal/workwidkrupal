@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Shravan</h2>
+<h2 align="left">Hi 👋, I'm Krupal</h2>
 <h3 align="left">AWS Data Engineer</h3>
 <h3 align="left">AWS Certified Solutions Architect Associate</h3>
 
@@ -9,7 +9,7 @@
 💡 Evaluated new technologies and industry trends to identify opportunities for enhancing current systems or developing innovative solutions.<br>
 🐍 Skilled in Python, I’m also diving into Golang and goroutines for high-performance, low-latency asynchronous processing, ensuring optimal resource utilization.<br>
 💬 Feel free to ask me about data engineering, cloud infrastructure, or how I’m integrating AI into real-world solutions!<br>
-📧 How to reach me shravan1711@gmail.com
+📧 How to reach me workwidkrupal@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shravanp.7)
