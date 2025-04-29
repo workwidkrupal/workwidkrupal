@@ -48,8 +48,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## 🏆 Badges
-<img src="aws-solutions-architect-associate.png" alt="aws-solutions-architect-associate" style="width: 170px; height: auto;"> <img src="aws-knowledge-compute.png" alt="aws-knowledge-compute" style="width: 170px; height: auto;"> <img src="aws-knowledge-file-storage.png" alt="aws-knowledge-file-storage" style="width: 170px; height: auto;"> <img src="aws-knowledge-serverless.png" alt="aws-knowledge-serverless" style="width: 170px; height: auto;"> <img src="databricks_aws.png" alt="databricks_aws" style="width: 170px; height: auto;">
 
 ## 🌊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=workwidkrupal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
